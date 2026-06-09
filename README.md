@@ -21,7 +21,7 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/yourusername/ouro-looplm.git
+git clone https://github.com/Envicta25/ouro-looplm.git
 cd ouro-looplm
 pip install -e .
 ```
