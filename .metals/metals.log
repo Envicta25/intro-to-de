@@ -1,0 +1,9 @@
+2026.07.31 11:37:54 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\envicta\Desktop\Study\DE Course\intro-to-de' for client Visual Studio Code 1.123.1.
+2026.07.31 11:37:54 INFO  Memory monitor started
+2026.07.31 11:37:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.31 11:37:54 INFO  no build target found for C:\Users\envicta\Desktop\Study\DE Course\intro-to-de\scala_itog.scala. Using presentation compiler with project's scala-library version: 3.3.8
+июл. 31, 2026 11:37:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+июл. 31, 2026 11:37:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.07.31 11:37:56 INFO  no build target found for C:\Users\envicta\Desktop\Study\DE Course\intro-to-de\scala_itog.scala. Using presentation compiler with project's scala-library version: 3.3.8
